@@ -1,0 +1,78 @@
+.banner{
+    display: flex;
+   flex-wrap:nowrap;  
+    background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+    border-radius: 10px;
+    padding-left: 5%;
+    padding-right: 2%;
+    padding-top: 3%;
+}
+.width{
+    width: 50%;
+  
+}
+p{
+   word-break: normal;
+}
+.width img{
+    width: 100%;
+}
+h1{
+    font-size: 4em;
+    width: 100%;
+}
+.bv{
+    background-color: red;
+    color: antiquewhite;
+    padding: 1%;
+    border-radius: 5px;
+}
+.met{
+    background-color: black;
+   width: 350px;
+   height: 275px;
+   padding: 1%;
+   border-radius: 13px;
+   margin-top: 25px;
+   font-size: em;
+
+}
+.dlog{
+    display: flex;
+    justify-content: center;
+   
+}
+#blog{
+    background-color: red;
+    border: 0ch;
+}
+.match{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: rgb(251, 251, 251);
+    margin-top: 15px;
+    padding: 20px;
+    font-size: x-large;
+    font-weight: 700;
+    text-align: center;
+}
+.grid{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1%;
+    margin-left: 50px;
+}
+.box{
+   bottom: ;
+}
+.foot{
+    margin-top: 20px;
+}
+
+
+
+
